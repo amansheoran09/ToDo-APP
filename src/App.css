@@ -1,0 +1,65 @@
+.container{
+    width: 40vw;
+    margin: auto;
+    height: 90vh;
+    margin-top: 35px;
+    border-radius: 20px;
+    background-color: pink;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
+h2{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.input{
+    background-color: white;
+    border-radius: 10px;
+    width: 70%;
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 30px;
+    border: none;
+    text-align: left;
+}
+.addtodo{
+   display: flex;
+    gap: 30px;
+    
+}
+.btn{
+    background-color:grey;
+    border-radius: 20px;
+    border: none;
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    
+}
+.todos{
+    margin-left: 20px;
+    margin-right: 40px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: disc;
+}
+.delbtn{
+   height: 20px;
+   width: 20px;
+    background-image: url("icons8-delete-30.png");
+    background-size: contain;
+}
+    
+    
+
+
+
+
+
+
